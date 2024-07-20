@@ -1,0 +1,19 @@
+{
+  "name": "japanbike",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000i\u0000l\u0000e\u0000-\u0000s\u0000a\u0000l\u0000e\u0000-\u0000a\u0000p\u0000p\u0000l\u0000i\u0000c\u0000a\u0000t\u0000i\u0000o\u0000n\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon api/index.js",
+    "start":"node api/index.js"
+
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
